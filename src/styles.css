@@ -1,0 +1,94 @@
+nav {
+  background-color: #000;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  padding: 10px;
+}
+.active-link {
+  color: yellow;
+}
+
+
+
+/*
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+#container {
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  background-color: #56a277
+}
+
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+  font-family: helvetica;
+}
+button {
+  margin: 0 5px;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  background-color: white;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 1px 2px 2px 2px black;
+}
+
+// Resets
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+// Presentational
+.container{
+  max-width: 320px;
+  margin: 32px auto;
+  background: #f5f5f5;
+  padding: 16px;
+}
+.cart{
+  // margin: 16px;
+  // padding: 16px;
+  // text-align: center;
+  // font-weight: bold;
+  // background: #555;
+  // border-radius: 3px;
+  // color: #fff;
+  // p{
+  //   margin: 8px 0;
+  // }
+}
+.product{
+  // background: #fff;
+  // border-radius: 3px;
+  // padding: 16px;
+  // margin: 16px;
+  // border: 1px solid #ccc;
+  // &:hover{
+  //   border-color: #999;
+  // }
+  // button{
+  //   display: block;
+  //   width: 100%;
+  //   background: #323232;
+  //   color: #fff;
+  //   border: none;
+  //   height: 32px;
+  //   border-radius: 3px;
+  //   cursor: pointer;
+  // }
+}
+*/
